@@ -113,7 +113,7 @@ export default function App() {
   if (st.firstRunDone === false) {
     return (
       <div style={{ maxWidth: 560, margin: '8vh auto', padding: 24, background: '#fff', borderRadius: 12, boxShadow: '0 4px 24px #0002' }}>
-        <h2 style={{ marginTop: 0 }}>Godownory — offline gym register</h2>
+        <h2 style={{ marginTop: 0 }}>Godownory — offline warehouse register</h2>
         <p>Godownory keeps your items, stock, challans and party ledgers <b>on this computer only</b> — nothing is uploaded anywhere. Data stays in an encrypted database on this PC.</p>
         <ul style={{ lineHeight: 1.8, fontSize: 14 }}>
           <li>Stock and party data you enter is stored locally.</li>
